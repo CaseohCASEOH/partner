@@ -1,3 +1,0 @@
-print("nothing there")
-warn("nothing there")
-error("nothing there")
