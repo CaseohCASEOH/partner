@@ -1,1 +1,1 @@
-Repository Where I Store Alliances Aka Partners Shared Codes 
+Repository Where Alliances Aka Partners Store Codes 
